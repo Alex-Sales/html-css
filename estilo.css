@@ -1,0 +1,20 @@
+body {
+		color: white;
+		background: repeat;
+		background-position: top;
+		background-attachment: scroll;
+		text-align: center;
+		margin-right: auto;
+	  	margin-left: auto;
+	}
+.fundo {
+		 background-image: url(img/backgroundtest.jpg);
+		}
+.centralizar {
+		margin-right: auto;
+	  	margin-left: auto;
+
+}
+.borda {
+	border-color: red;
+}
